@@ -1,2 +1,2 @@
 # batmoms-baking
-Homemade breads &amp; butte
+Homemade breads & and butters
