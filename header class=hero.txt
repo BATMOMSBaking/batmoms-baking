@@ -1,0 +1,6 @@
+<header class="hero">
+  <img src="images/batmom-banner.png" alt="BatMom’s Baking logo">
+  <h1>BatMom’s Baking</h1>
+  <p>Fresh Bread • Creamy Butter • Made with Love</p>
+  <a href="menu.html" class="btn">View Menu</a>
+</header>
